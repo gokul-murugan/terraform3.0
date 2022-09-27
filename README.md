@@ -1,5 +1,6 @@
 # Resource block
 
+Syntax
 resource "<resource_type>" "<reference_name>" {
   # ARGUMENTS
 }
